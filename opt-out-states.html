@@ -256,6 +256,8 @@
     table { font-size: 0.8rem; }
     th, td { padding: 0.5rem 0.6rem; }
   }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How does bankruptcy work in my state?", "acceptedAnswer": {"@type": "Answer", "text": "While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test."}}, {"@type": "Question", "name": "What are my state's bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "Every state has its own set of exemptions covering your home, car, personal property, and retirement accounts. Some states are very generous with homestead exemptions, while others offer minimal protection. Check your specific state's exemption amounts before filing."}}, {"@type": "Question", "name": "Do I have to file bankruptcy in the state where I live?", "acceptedAnswer": {"@type": "Answer", "text": "You file in the federal district where you have lived for the greater portion of the last 180 days. If you recently moved, you may need to use your previous state's exemptions for up to two years after the move under the hanging paragraph rule."}}, {"@type": "Question", "name": "Does my state allow federal bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "About 17 states allow debtors to choose between state and federal exemptions. The remaining states require you to use state exemptions only. If you have the choice, compare both sets to determine which protects more of your property."}}, {"@type": "Question", "name": "What should I know before filing bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Bankruptcy is a legal process that can eliminate or restructure debts, but it has lasting effects on your credit and financial life. Before filing, understand which debts can be discharged, what property you can keep through exemptions, and which chapter fits your situation."}}]}
@@ -283,6 +285,8 @@
 </nav>
 
 <header><h1><span class="accent">Opt-Out States</span></h1><p class="subtitle">33 states have opted out of federal bankruptcy exemptions, requiring debtors to use state-law exemptions instead.</p></header><main>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcyexemptionsbystate.com">bankruptcyexemptionsbystate.com</a><span class="separator">&rsaquo;</span><span>Opt-Out States -- States That Require State Bankru</span></nav>
+
 <div class="content-section"><h2>What does opting out mean?</h2><p>Under <strong>11 U.S.C. &sect; 522(b)(2)</strong>, Congress gave states the power to opt out of the federal exemption scheme. When a state opts out, debtors in that state <strong>must use state-law exemptions</strong> and cannot choose the federal exemptions listed in &sect; 522(d).</p><p>This does not mean you have no exemptions. It means you use your state's own exemption statutes instead of the federal list. Some state exemptions are more generous than federal; some are less.</p></div>
 <div class="content-section"><h2>Opt-out vs. choice states</h2><table><thead><tr><th scope="col">Category</th><th scope="col">Number</th><th scope="col">What it means</th></tr></thead><tbody>
 <tr><td>Opt-out states (state exemptions only)</td><td>33</td><td>Must use state exemptions; federal &sect; 522(d) not available</td></tr>
@@ -424,5 +428,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString()}).catch(function(){})</script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>
