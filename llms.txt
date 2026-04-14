@@ -1,21 +1,26 @@
-# Bankruptcy Exemptions by State -- 2026 Guide
+# Bankruptcy Exemptions by State - 2026 Guide
 > Compare bankruptcy exemptions across all 50 states. Homestead, vehicle, wildcard, and personal property limits in one chart. Updated for 2026.
 
 ## About
 bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Exemptions by State -- 2026 Guide: https://bankruptcyexemptionsbystate.com/
-- Minnesota Federal Exemptions 522 -- Federal vs State Bankruptcy Exemptions: https://bankruptcyexemptionsbystate.com/minnesota-federal-exemptions-522.html
-- Nevada Homestead Exemption 2026 -- Protect Your Home in Bankruptcy: https://bankruptcyexemptionsbystate.com/nevada-homestead-exemption.html
-- Nebraska Bankruptcy Exemptions 2026 -- Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/nebraska-bankruptcy-exemptions.html
+- Is Your 401(k) Protected in Bankruptcy? (2026): https://bankruptcyexemptionsbystate.com/401k-protected-in-bankruptcy.html
+- 11 USC 522 - Bankruptcy Exemptions Under Federal Law: https://bankruptcyexemptionsbystate.com/522-exemptions.html
+- Arkansas Bankruptcy Exemptions 2026 - Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/arkansas-exemptions.html
 - Bankruptcy Exemptions FAQ: https://bankruptcyexemptionsbystate.com/faq.html
-- Federal Bankruptcy Exemptions -- 11 U.S.C. Section 522(d): https://bankruptcyexemptionsbystate.com/federal-exemptions.html
-- Homestead Exemptions in Bankruptcy -- State-by-State Guide: https://bankruptcyexemptionsbystate.com/homestead-exemptions.html
-- Opt-Out States -- States That Require State Bankruptcy Exemptions: https://bankruptcyexemptionsbystate.com/opt-out-states.html
+- Federal Bankruptcy Exemptions - 11 U.S.C. Section 522(d): https://bankruptcyexemptionsbystate.com/federal-exemptions.html
+- Bankruptcy Exemptions FAQ - Protect Your Property in Bankruptcy: https://bankruptcyexemptionsbystate.com/frequently-asked-questions.html
+- Homestead Exemptions in Bankruptcy - State-by-State Guide: https://bankruptcyexemptionsbystate.com/homestead-exemptions.html
+- Bankruptcy Exemptions by State - 2026 Guide: https://bankruptcyexemptionsbystate.com/
+- Life Insurance and Annuity Exemptions in Bankruptcy (2026): https://bankruptcyexemptionsbystate.com/insurance-exemptions.html
+- Minnesota Federal Exemptions 522 - Federal vs State Bankruptcy Exemptions: https://bankruptcyexemptionsbystate.com/minnesota-federal-exemptions-522.html
+- Nebraska Bankruptcy Exemptions 2026 - Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/nebraska-bankruptcy-exemptions.html
+- Nevada Homestead Exemption 2026 - Protect Your Home in Bankruptcy: https://bankruptcyexemptionsbystate.com/nevada-homestead-exemption.html
+- Opt-Out States - States That Require State Bankruptcy Exemptions: https://bankruptcyexemptionsbystate.com/opt-out-states.html
 - Personal Property Exemptions in Bankruptcy: https://bankruptcyexemptionsbystate.com/personal-property.html
-- Retirement Account Exemptions in Bankruptcy -- 401(k), IRA, Pension: https://bankruptcyexemptionsbystate.com/retirement-exemptions.html
-- Social Security Exemption in Bankruptcy -- Is It Protected?: https://bankruptcyexemptionsbystate.com/social-security-exemption.html
+- Retirement Account Exemptions in Bankruptcy - 401(k), IRA, Pension: https://bankruptcyexemptionsbystate.com/retirement-exemptions.html
+- Social Security Exemption in Bankruptcy - Is It Protected?: https://bankruptcyexemptionsbystate.com/social-security-exemption.html
 - Exenciones de Bancarrota en Alabama: https://bankruptcyexemptionsbystate.com/states-es/alabama.html
 - Exenciones de Bancarrota en Alaska: https://bankruptcyexemptionsbystate.com/states-es/alaska.html
 - Exenciones de Bancarrota en Arizona: https://bankruptcyexemptionsbystate.com/states-es/arizona.html
@@ -30,7 +35,7 @@ bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbank
 - Exenciones de Bancarrota en Hawái: https://bankruptcyexemptionsbystate.com/states-es/hawaii.html
 - Exenciones de Bancarrota en Idaho: https://bankruptcyexemptionsbystate.com/states-es/idaho.html
 - Exenciones de Bancarrota en Illinois: https://bankruptcyexemptionsbystate.com/states-es/illinois.html
-- Exenciones de Bancarrota por Estado: https://bankruptcyexemptionsbystate.com/states-es/index.html
+- Exenciones de Bancarrota por Estado: https://bankruptcyexemptionsbystate.com/states-es/
 - Exenciones de Bancarrota en Indiana: https://bankruptcyexemptionsbystate.com/states-es/indiana.html
 - Exenciones de Bancarrota en Iowa: https://bankruptcyexemptionsbystate.com/states-es/iowa.html
 - Exenciones de Bancarrota en Kansas: https://bankruptcyexemptionsbystate.com/states-es/kansas.html
@@ -82,7 +87,7 @@ bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbank
 - Bankruptcy in Hawaii: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/hawaii.html
 - Bankruptcy in Idaho: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/idaho.html
 - Bankruptcy in Illinois: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/illinois.html
-- Bankruptcy Exemptions by State -- All 50 States Guide: https://bankruptcyexemptionsbystate.com/states/index.html
+- Bankruptcy Exemptions by State - All 50 States Guide: https://bankruptcyexemptionsbystate.com/states/
 - Bankruptcy in Indiana: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/indiana.html
 - Bankruptcy in Iowa: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/iowa.html
 - Bankruptcy in Kansas: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/kansas.html
@@ -120,17 +125,13 @@ bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbank
 - Bankruptcy in West Virginia: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/west-virginia.html
 - Bankruptcy in Wisconsin: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/wisconsin.html
 - Bankruptcy in Wyoming: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/wyoming.html
-- Vehicle Exemptions in Bankruptcy -- How Much Car Equity Is Protected: https://bankruptcyexemptionsbystate.com/vehicle-exemptions.html
-- Wages Exemption in Bankruptcy -- Protecting Your Paycheck: https://bankruptcyexemptionsbystate.com/wages-exemption-bankruptcy.html
-- Wildcard Exemptions in Bankruptcy -- Protect Any Property: https://bankruptcyexemptionsbystate.com/wildcard-exemptions.html
-- Is Your 401(k) Protected in Bankruptcy? (2026): https://bankruptcyexemptionsbystate.com/401k-protected-in-bankruptcy.html
-- Wage and Income Exemptions in Bankruptcy (2026): https://bankruptcyexemptionsbystate.com/wage-exemptions.html
 - Tools of the Trade Exemption in Bankruptcy (2026): https://bankruptcyexemptionsbystate.com/tools-of-trade.html
-- Life Insurance and Annuity Exemptions in Bankruptcy (2026): https://bankruptcyexemptionsbystate.com/insurance-exemptions.html
-- Arkansas Bankruptcy Exemptions 2026 -- Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/arkansas-exemptions.html
-- Wisconsin Bankruptcy Exemptions 2026 -- Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/wisconsin-exemptions.html
-- 11 USC 522 -- Bankruptcy Exemptions Under Federal Law: https://bankruptcyexemptionsbystate.com/522-exemptions.html
-- Bankruptcy Exemptions FAQ -- Protect Your Property in Bankruptcy: https://bankruptcyexemptionsbystate.com/frequently-asked-questions.html
+- Vehicle Exemptions in Bankruptcy - How Much Car Equity Is Protected: https://bankruptcyexemptionsbystate.com/vehicle-exemptions.html
+- Wage and Income Exemptions in Bankruptcy (2026): https://bankruptcyexemptionsbystate.com/wage-exemptions.html
+- Wages Exemption in Bankruptcy - Protecting Your Paycheck: https://bankruptcyexemptionsbystate.com/wages-exemption-bankruptcy.html
+- Wildcard Exemptions in Bankruptcy - Protect Any Property: https://bankruptcyexemptionsbystate.com/wildcard-exemptions.html
+- Wisconsin Bankruptcy Exemptions 2026 - Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/wisconsin-exemptions.html
+- Privacy Policy: https://bankruptcyexemptionsbystate.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
