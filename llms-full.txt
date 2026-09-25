@@ -61,7 +61,7 @@ The key: these are plans governed by ERISA. As long as your employer's plan meet
 
 IRAs: Protected With a Cap
 
-Traditional IRAs, Roth IRAs, and SEP-IRAs are protected up to a combined limit of approximately $1,512,350 (adjusted for inflation). Amounts above this cap could theoretically be taken by the trustee, though this rarely happens.
+Traditional IRAs, Roth IRAs, and SEP-IRAs are protected up to a combined limit of approximately $1,711,975 (adjusted for inflation). Amounts above this cap could theoretically be taken by the trustee, though this rarely happens.
 
 Rollover IRAs (funds rolled over from an employer plan into an IRA) may retain the unlimited ERISA protection of the original plan, depending on your jurisdiction.
 
@@ -174,19 +174,19 @@ Key Federal Exemption Amounts (2026)
 
 Property Type11 USC 522(d) Subsection2026 Amount
 
-Homestead522(d)(1)$27,900
+Homestead522(d)(1)$31,575
 
-Motor vehicle522(d)(2)$4,450
+Motor vehicle522(d)(2)$5,025
 
-Household goods (per item)522(d)(3)$700
+Household goods (per item)522(d)(3)$800
 
-Jewelry522(d)(4)$1,875
+Jewelry522(d)(4)$2,125
 
-Wildcard522(d)(5)$1,475 + unused homestead up to $13,950
+Wildcard522(d)(5)$1,675 + unused homestead up to $15,800
 
-Tools of trade522(d)(6)$2,800
+Tools of trade522(d)(6)$3,175
 
-Retirement accounts522(d)(12)Unlimited (IRAs up to $1,512,350)
+Retirement accounts522(d)(12)Unlimited (IRAs up to $1,711,975)
 
 Section 522 Domicile Requirements
 
@@ -200,7 +200,7 @@ Frequently Asked Questions
 
 What exemptions does 11 USC 522 provide?
 
-Section 522 provides federal exemptions for homestead ($27,900), motor vehicle ($4,450), household goods ($700 per item), jewelry ($1,875), wildcard ($1,475 plus unused homestead up to $13,950), tools of trade ($2,800), and retirement accounts (unlimited for qualified plans).
+Section 522 provides federal exemptions for homestead ($31,575), motor vehicle ($5,025), household goods ($800 per item), jewelry ($2,125), wildcard ($1,675 plus unused homestead up to $15,800), tools of trade ($3,175), and retirement accounts (unlimited for qualified plans).
 
 Can I choose between federal and state exemptions?
 
@@ -266,7 +266,7 @@ Life insuranceCash value up to $500; group policy fully exemptArk. Code Ann. 16-
 
 Public benefitsFully exempt (unemployment, workers' comp, crime victims)Various
 
-WildcardNone under state; $1,475 + $13,950 unused homestead under federal11 U.S.C. 522(d)(5)
+WildcardNone under state; $1,675 + $15,800 unused homestead under federal11 U.S.C. 522(d)(5)
 
 Arkansas Homestead Exemption Details
 
@@ -282,7 +282,7 @@ Must have owned for at least 40 days before filing
 
 The 730-day federal domicile rule applies if you recently moved to Arkansas (11 U.S.C. 522(b)(3)(A))
 
-Important: If you recently bought an expensive home to shelter assets before bankruptcy, the BAPCPA cap of $189,050 may apply under 11 U.S.C. 522(p). This targets pre-filing asset conversion.
+Important: If you recently bought an expensive home to shelter assets before bankruptcy, the BAPCPA cap of $214,000 may apply under 11 U.S.C. 522(p). This targets pre-filing asset conversion.
 
 State vs. Federal Exemptions in Arkansas
 
@@ -290,11 +290,11 @@ Arkansas allows debtors to choose between state and federal exemption systems. Y
 
 Choose state exemptions if: You have significant home equity (unlimited vs. $27,900 federal) or own rural acreage
 
-Choose federal exemptions if: You rent or have little home equity - the federal wildcard ($1,475 + up to $13,950 of unused homestead = $15,425) protects more personal property, and the vehicle exemption is $4,450 vs. $1,200 under state law
+Choose federal exemptions if: You rent or have little home equity - the federal wildcard ($1,675 + up to $15,800 of unused homestead = $17,475) protects more personal property, and the vehicle exemption is $5,025 vs. $1,200 under state law
 
 Important Notes for Arkansas Filers
 
-Low vehicle exemption under state law: Only $1,200. If you have significant car equity, consider using federal exemptions ($4,450 + potential wildcard)
+Low vehicle exemption under state law: Only $1,200. If you have significant car equity, consider using federal exemptions ($5,025 + potential wildcard)
 
 Marriage doubles exemptions: Married couples filing jointly can each claim the full exemption amounts
 
@@ -511,21 +511,21 @@ Federal exemption amounts are adjusted every 3 years for inflation. The amounts 
 
 CategorySectionAmount
 
-Homestead (real or personal property used as residence)§ 522(d)(1)$27,900
+Homestead (real or personal property used as residence)§ 522(d)(1)$31,575
 
-Motor vehicle§ 522(d)(2)$4,450
+Motor vehicle§ 522(d)(2)$5,025
 
-Household goods (per item)§ 522(d)(3)$700 per item, $14,875 total
+Household goods (per item)§ 522(d)(3)$800 per item, $16,850 total
 
-Jewelry§ 522(d)(4)$1,875
+Jewelry§ 522(d)(4)$2,125
 
-Wildcard (any property)§ 522(d)(5)$1,475 + up to $13,950 of unused homestead
+Wildcard (any property)§ 522(d)(5)$1,675 + up to $15,800 of unused homestead
 
-Tools of the trade§ 522(d)(6)$2,800
+Tools of the trade§ 522(d)(6)$3,175
 
 Life insurance (unmatured)§ 522(d)(7)Unlimited (no cash value limit separately)
 
-Life insurance (cash value)§ 522(d)(8)$14,875
+Life insurance (cash value)§ 522(d)(8)$16,850
 
 Health aids§ 522(d)(9)Unlimited
 
@@ -533,11 +533,11 @@ Social Security, disability, unemployment§ 522(d)(10)Unlimited
 
 Alimony and child support§ 522(d)(10)(D)Reasonably necessary
 
-Personal injury recovery§ 522(d)(11)(D)$27,900
+Personal injury recovery§ 522(d)(11)(D)$31,575
 
 Retirement accounts (ERISA)§ 522(b)(3)(C)Unlimited
 
-IRA/Roth IRA§ 522(n)~$1,512,350
+IRA/Roth IRA§ 522(n)~$1,711,975
 
 States where federal exemptions are available
 
@@ -549,7 +549,7 @@ In these states, you choose whichever set - federal or state - gives you better 
 
 11 U.S.C. § 522(b)(1): A debtor may exempt property under either the federal exemptions in paragraph (2) or the state exemptions in paragraph (3), but not both. The choice must be consistent for all property claimed as exempt.
 
-The wildcard exemption is powerful. If you do not own a home (or do not use the full homestead exemption), you can shift up to $13,950 of the unused homestead into the wildcard under § 522(d)(5). Combined with the base $1,475, that gives you $15,425 to protect any property - cash, bank accounts, tax refunds, or anything else.
+The wildcard exemption is powerful. If you do not own a home (or do not use the full homestead exemption), you can shift up to $15,800 of the unused homestead into the wildcard under § 522(d)(5). Combined with the base $1,675, that gives you $17,475 to protect any property - cash, bank accounts, tax refunds, or anything else.
 
 Related Guides
 
@@ -699,15 +699,15 @@ No. Most people who file bankruptcy keep all or nearly all of their property. Ex
 
 What is the homestead exemption?
 
-The homestead exemption protects equity in your primary residence. It varies dramatically by state - from unlimited in Texas, Florida, and Kansas to as little as $5,000 in some states. The federal homestead exemption is $27,900 (2024). This exemption only protects your primary residence, not investment properties.
+The homestead exemption protects equity in your primary residence. It varies dramatically by state - from unlimited in Texas, Florida, and Kansas to as little as $5,000 in some states. The federal homestead exemption is $31,575 (2025). This exemption only protects your primary residence, not investment properties.
 
 Can I keep my car in bankruptcy?
 
-In most cases, yes. Every state has a vehicle exemption that protects some amount of equity in your car. The federal vehicle exemption is $4,450. If your car has more equity than the exemption covers, you may be able to use the wildcard exemption to protect the difference.
+In most cases, yes. Every state has a vehicle exemption that protects some amount of equity in your car. The federal vehicle exemption is $5,025. If your car has more equity than the exemption covers, you may be able to use the wildcard exemption to protect the difference.
 
 What is the wildcard exemption?
 
-The wildcard exemption is a flexible exemption you can apply to any property. The federal wildcard is $1,475 plus up to $13,950 of any unused homestead exemption. Not all states offer a wildcard, and amounts vary significantly. It is especially useful for protecting cash, tax refunds, or property that does not fit other categories.
+The wildcard exemption is a flexible exemption you can apply to any property. The federal wildcard is $1,675 plus up to $15,800 of any unused homestead exemption. Not all states offer a wildcard, and amounts vary significantly. It is especially useful for protecting cash, tax refunds, or property that does not fit other categories.
 
 Are 401(k) and IRA accounts protected in bankruptcy?
 
@@ -747,7 +747,7 @@ In Chapter 13, exemptions determine how much you must pay unsecured creditors th
 
 Can I increase my exemptions before filing?
 
-Pre-bankruptcy planning is legal within limits. You can convert non-exempt assets into exempt ones (e.g., paying down your mortgage). However, converting assets with intent to defraud creditors is illegal and can result in denial of discharge. A 2-year lookback applies to homestead exemption increases over $189,050.
+Pre-bankruptcy planning is legal within limits. You can convert non-exempt assets into exempt ones (e.g., paying down your mortgage). However, converting assets with intent to defraud creditors is illegal and can result in denial of discharge. A 2-year lookback applies to homestead exemption increases over $214,000.
 
 More Resources on This Site
 
@@ -820,9 +820,9 @@ The homestead exemption protects your equity in your primary residence. Equity i
 
 If your equity exceeds the exemption, the trustee can sell the home. But the trustee must pay you the exempt amount from the sale proceeds, plus pay off the mortgage, plus cover the costs of sale. This often makes the sale economically impractical, even when equity exceeds the exemption by a small amount.
 
-11 U.S.C. § 522(d)(1): Federal homestead exemption: $27,900 per debtor in real or personal property used as a residence (available in states that have not opted out).
+11 U.S.C. § 522(d)(1): Federal homestead exemption: $31,575 per debtor in real or personal property used as a residence (available in states that have not opted out).
 
-11 U.S.C. § 522(p): Limits homestead exemptions to $189,050 for property acquired within 1,215 days (about 3.3 years) of filing, regardless of state law. This prevents last-minute purchases of expensive homes in unlimited-exemption states.
+11 U.S.C. § 522(p): Limits homestead exemptions to $214,000 for property acquired within 1,215 days (about 3.3 years) of filing, regardless of state law. This prevents last-minute purchases of expensive homes in unlimited-exemption states.
 
 State homestead exemptions - selected examples
 
@@ -850,7 +850,7 @@ Alabama$16,450160 acres max
 
 This is a selected sample. Amounts change periodically. Always verify current amounts with a local attorney or your state's statutes.
 
-The 1,215-day rule limits homestead planning. Under 11 U.S.C. § 522(p), if you acquired your home within 1,215 days of filing, your homestead exemption is capped at $189,050 regardless of state law. This prevents people from buying expensive homes in unlimited-exemption states right before filing.
+The 1,215-day rule limits homestead planning. Under 11 U.S.C. § 522(p), if you acquired your home within 1,215 days of filing, your homestead exemption is capped at $214,000 regardless of state law. This prevents people from buying expensive homes in unlimited-exemption states right before filing.
 
 Even without an unlimited exemption, most homeowners keep their homes in Chapter 7. Many homeowners have little equity (especially if they have a mortgage), and the trustee must account for sale costs. If the net recovery for creditors would be minimal, the trustee typically abandons the property.
 
@@ -1439,31 +1439,31 @@ Federal vs. Minnesota State Exemptions Comparison
 
 Asset TypeFederal 522(d)Minnesota State
 
-Homestead$27,900 ($55,800 couple)$450,000 (or 160 acres rural)
+Homestead$31,575 ($63,150 couple)$450,000 (or 160 acres rural)
 
-Vehicle$4,450$5,000 (one vehicle)
+Vehicle$5,025$5,000 (one vehicle)
 
-Wildcard$1,475 + up to $13,950 unused homesteadNone
+Wildcard$1,675 + up to $15,800 unused homesteadNone
 
-Personal property$700 per item, $14,875 totalVaries by category
+Personal property$800 per item, $16,850 totalVaries by category
 
 WagesNot specifically protected75% of wages exempt
 
-Retirement (IRA)$1,512,350Fully exempt
+Retirement (IRA)$1,711,975Fully exempt
 
 401(k)/PensionUnlimited (ERISA)Unlimited (ERISA)
 
-Tools of trade$2,800$13,000
+Tools of trade$3,175$13,000
 
-Jewelry$1,875One watch + wedding ring
+Jewelry$2,125One watch + wedding ring
 
-Life insurance$14,875 (loan value)$46,000 (cash value)
+Life insurance$16,850 (loan value)$46,000 (cash value)
 
 Federal amounts are as of April 2025 adjustments. State amounts per Minnesota Statutes Section 550.37. Amounts for married couples filing jointly may differ.
 
-When Federal Exemptions Win: If you rent or have little to no home equity, the federal wildcard of up to $15,425 ($1,475 + $13,950 unused homestead) can protect far more cash, bank accounts, or other assets than Minnesota's state system. The federal wildcard can apply to any property.
+When Federal Exemptions Win: If you rent or have little to no home equity, the federal wildcard of up to $17,475 ($1,675 + $15,800 unused homestead) can protect far more cash, bank accounts, or other assets than Minnesota's state system. The federal wildcard can apply to any property.
 
-When State Exemptions Win: If you own a home with significant equity, Minnesota's $450,000 homestead exemption dwarfs the federal $27,900. Minnesota also offers stronger tools-of-trade protection ($13,000 vs. $2,800) and generous life insurance and wage exemptions.
+When State Exemptions Win: If you own a home with significant equity, Minnesota's $450,000 homestead exemption dwarfs the federal $31,575. Minnesota also offers stronger tools-of-trade protection ($13,000 vs. $3,175) and generous life insurance and wage exemptions.
 
 How Section 522(b)(2) Works
 
@@ -1623,7 +1623,7 @@ Key Rules for the Nevada Homestead Exemption in Bankruptcy
 
 Opt-out state: Nevada debtors must use state exemptions. Federal exemptions under Section 522(d) are not available.
 
-Domicile requirement: You must have been domiciled in Nevada for at least 730 days (2 years) before filing. If not, the $189,050 federal cap from Section 522(p) may apply.
+Domicile requirement: You must have been domiciled in Nevada for at least 730 days (2 years) before filing. If not, the $214,000 federal cap from Section 522(p) may apply.
 
 One property only: The exemption applies to one primary residence - not investment property or second homes.
 
@@ -1705,7 +1705,7 @@ Does opting out matter?
 
 It depends on your state. In states with generous exemptions (like Texas, Florida, or Kansas with unlimited homesteads), the opt-out is irrelevant - state exemptions are better than federal. In states with weak exemptions (like Missouri or Alabama), the opt-out hurts debtors by denying access to the federal wildcard and other protections.
 
-The most impactful difference is often the wildcard exemption. The federal wildcard under § 522(d)(5) can provide up to $15,425 of flexible protection. States that opt out but offer no wildcard (or a very small one) leave debtors with less protection for cash, bank accounts, and tax refunds.
+The most impactful difference is often the wildcard exemption. The federal wildcard under § 522(d)(5) can provide up to $17,475 of flexible protection. States that opt out but offer no wildcard (or a very small one) leave debtors with less protection for cash, bank accounts, and tax refunds.
 
 Even in opt-out states, some federal protections still apply. ERISA retirement account protection, Social Security exemptions, and certain other federal protections are available regardless of state opt-out status. These come from separate federal statutes, not from § 522(d).
 
@@ -1858,17 +1858,17 @@ Most states and the federal exemption scheme protect essential personal property
 
 CategoryFederal AmountSection
 
-Household furnishings, goods, clothing, appliances, books, animals, crops, musical instruments$700 per item, $14,875 aggregate§ 522(d)(3)
+Household furnishings, goods, clothing, appliances, books, animals, crops, musical instruments$800 per item, $16,850 aggregate§ 522(d)(3)
 
-Jewelry$1,875§ 522(d)(4)
+Jewelry$2,125§ 522(d)(4)
 
-Tools of the trade (implements, books, etc.)$2,800§ 522(d)(6)
+Tools of the trade (implements, books, etc.)$3,175§ 522(d)(6)
 
 Health aidsUnlimited§ 522(d)(9)
 
 Tools of the trade
 
-If you are self-employed or work in a trade that requires specific tools, the tools of the trade exemption is important. Under the federal scheme, you can protect up to $2,800 in tools, professional books, and other implements used in your trade or business.
+If you are self-employed or work in a trade that requires specific tools, the tools of the trade exemption is important. Under the federal scheme, you can protect up to $3,175 in tools, professional books, and other implements used in your trade or business.
 
 State exemptions vary widely. Some states are much more generous - Texas, for example, allows substantial tools of the trade exemptions for individuals and families. Other states have no specific tools exemption at all.
 
@@ -2041,7 +2041,7 @@ The rationale is simple: these funds are held in trust for retirement and are su
 
 IRAs (capped protection)
 
-Traditional IRAs and Roth IRAs are protected up to a combined limit of approximately $1,512,350 (as of 2024, adjusted every 3 years). This cap was established by the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) of 2005 and codified at 11 U.S.C. § 522(n).
+Traditional IRAs and Roth IRAs are protected up to a combined limit of approximately $1,711,975 (as of April 1, 2025, adjusted every 3 years). This cap was established by the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) of 2005 and codified at 11 U.S.C. § 522(n).
 
 Rollover IRAs that originated from an ERISA-qualified plan (like a 401(k) rolled into an IRA) receive unlimited protection, even though they are now held in an IRA.
 
@@ -2051,7 +2051,7 @@ Account TypeProtection LevelAuthority
 
 401(k), 403(b), pensionUnlimited§ 522(b)(3)(C); Patterson v. Shumate
 
-Traditional/Roth IRA~$1,512,350§ 522(n)
+Traditional/Roth IRA~$1,711,975§ 522(n)
 
 SEP-IRA, SIMPLE IRAUnlimited (employer-established)§ 522(b)(3)(C)
 
@@ -17893,7 +17893,7 @@ The definition is interpreted broadly in most jurisdictions - anything reasonabl
 
 Federal Exemption
 
-The federal tools of the trade exemption (11 U.S.C. section 522(d)(6)) protects up to $2,800 in tools, implements, and professional books. This amount is relatively low, but can be supplemented with the wildcard exemption.
+The federal tools of the trade exemption (11 U.S.C. section 522(d)(6)) protects up to $3,175 in tools, implements, and professional books. This amount is relatively low, but can be supplemented with the wildcard exemption.
 
 State Exemptions
 
@@ -18003,7 +18003,7 @@ How vehicle exemptions work
 
 The vehicle exemption protects your equity in a motor vehicle. Equity is the difference between the car's fair market value and what you owe on it. If you have a car loan and owe more than the car is worth, you have zero equity - and the vehicle exemption is not even needed.
 
-The federal vehicle exemption under 11 U.S.C. § 522(d)(2) is $4,450. State exemptions vary from as little as $1,000 to over $10,000, and some states have no specific vehicle exemption at all (but may offer a generous wildcard).
+The federal vehicle exemption under 11 U.S.C. § 522(d)(2) is $5,025. State exemptions vary from as little as $1,000 to over $10,000, and some states have no specific vehicle exemption at all (but may offer a generous wildcard).
 
 Selected state vehicle exemptions
 
@@ -18359,7 +18359,7 @@ What is a wildcard exemption?
 
 Unlike category-specific exemptions (homestead for your home, vehicle for your car), a wildcard exemption can be applied to any property. It gives you flexible protection for assets that do not fit neatly into other exemption categories - like cash in a bank account, a tax refund, cryptocurrency, or valuable personal property.
 
-The federal wildcard under 11 U.S.C. § 522(d)(5) provides $1,475 plus up to $13,950 of any unused portion of the homestead exemption. If you do not own a home (or do not need the full homestead exemption), the total wildcard can reach $15,425 per debtor - or $30,850 for a married couple filing jointly.
+The federal wildcard under 11 U.S.C. § 522(d)(5) provides $1,675 plus up to $15,800 of any unused portion of the homestead exemption. If you do not own a home (or do not need the full homestead exemption), the total wildcard can reach $17,475 per debtor - or $34,950 for a married couple filing jointly.
 
 Selected state wildcard exemptions
 
@@ -18563,7 +18563,7 @@ Life insurance$4,000 cash value per policyWis. Stat. 815.18(3)(i)
 
 Public benefitsFully exempt (unemployment, workers' comp, SSI, TANF)Various
 
-WildcardNone under state; $1,475 + $13,950 unused homestead under federal11 U.S.C. 522(d)(5)
+WildcardNone under state; $1,675 + $15,800 unused homestead under federal11 U.S.C. 522(d)(5)
 
 Wisconsin Homestead Exemption Details
 
@@ -18583,9 +18583,9 @@ State vs. Federal Exemptions in Wisconsin
 
 Wisconsin allows debtors to choose between state and federal systems:
 
-Choose state exemptions if: You have high home equity ($75,000 vs. $27,900 federal), high tools of trade value ($15,000 vs. $2,800 federal), or significant household goods ($12,000 vs. $700 per item federal)
+Choose state exemptions if: You have high home equity ($75,000 vs. $31,575 federal), high tools of trade value ($15,000 vs. $3,175 federal), or significant household goods ($12,000 vs. $800 per item federal)
 
-Choose federal exemptions if: You rent or have little home equity - the federal wildcard ($1,475 + up to $13,950 of unused homestead = $15,425) covers more personal property
+Choose federal exemptions if: You rent or have little home equity - the federal wildcard ($1,675 + up to $15,800 of unused homestead = $17,475) covers more personal property
 
 Community Property Considerations
 
