@@ -1,5 +1,5 @@
 # Bankruptcy Exemptions by State - 2026 Guide
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Compare bankruptcy exemptions across all 50 states. Homestead, vehicle, wildcard, and personal property limits in one chart. Updated for 2026.
 
@@ -11,7 +11,7 @@ bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbank
 - 11 USC 522 - Bankruptcy Exemptions Under Federal Law: https://bankruptcyexemptionsbystate.com/522-exemptions.html
 - Arkansas Bankruptcy Exemptions 2026 - Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/arkansas-exemptions.html
 - Bankruptcy Exemptions FAQ: https://bankruptcyexemptionsbystate.com/faq.html
-- Federal Bankruptcy Exemptions - 11 U.S.C. Section 522(d): https://bankruptcyexemptionsbystate.com/federal-exemptions.html
+- Federal Bankruptcy Exemptions: https://bankruptcyexemptionsbystate.com/federal-exemptions.html
 - Bankruptcy Exemptions FAQ - Protect Your Property in Bankruptcy: https://bankruptcyexemptionsbystate.com/frequently-asked-questions.html
 - Homestead Exemptions in Bankruptcy - State-by-State Guide: https://bankruptcyexemptionsbystate.com/homestead-exemptions.html
 - Bankruptcy Exemptions by State - 2026 Guide: https://bankruptcyexemptionsbystate.com/
@@ -99,7 +99,7 @@ bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbank
 - Bankruptcy in Maryland: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/maryland.html
 - Bankruptcy in Massachusetts: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/massachusetts.html
 - Bankruptcy in Michigan: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/michigan.html
-- Bankruptcy in Minnesota: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/minnesota.html
+- Bankruptcy in Minnesota [2026]: Does Minnesota Allow Federal: https://bankruptcyexemptionsbystate.com/states/minnesota.html
 - Bankruptcy in Mississippi: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/mississippi.html
 - Bankruptcy in Missouri: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/missouri.html
 - Bankruptcy in Montana: Filing Guide, Exemptions, and Statistics: https://bankruptcyexemptionsbystate.com/states/montana.html
@@ -134,6 +134,7 @@ bankruptcyexemptionsbystate.com is part of the Open Bankruptcy Project (openbank
 - Wildcard Exemptions in Bankruptcy - Protect Any Property: https://bankruptcyexemptionsbystate.com/wildcard-exemptions.html
 - Wisconsin Bankruptcy Exemptions 2026 - Complete Exemption Guide: https://bankruptcyexemptionsbystate.com/wisconsin-exemptions.html
 - Privacy Policy: https://bankruptcyexemptionsbystate.com/privacy.html
+- About bankruptcyexemptionsbystate.com: https://bankruptcyexemptionsbystate.com/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
